@@ -13,7 +13,7 @@ var scores, roundScore, activePlayer, dice, gamePlaying;
 init();
 
 
-document.querySelector('#current-' + activePlayer).textContent = dice;
+//document.querySelector('#current-' + activePlayer).textContent = dice;
 //document.querySelector('#current-' + activePlayer).innerHTML = '<em>' + dice + '</em';
 
 
